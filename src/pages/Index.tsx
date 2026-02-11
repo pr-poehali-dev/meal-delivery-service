@@ -62,7 +62,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <span className="text-2xl">🍱</span>
-            <span className="text-xl font-bold text-primary">Samovar Express</span>
+            <span className="text-xl font-bold text-primary">GURPIT</span>
           </div>
           
           <nav className="hidden md:flex items-center gap-8">
