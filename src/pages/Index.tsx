@@ -61,7 +61,7 @@ const Index = () => {
       <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="text-2xl">🍱</span>
+            <img src="https://cdn.poehali.dev/projects/5e3330eb-6050-42b6-9a93-c5d98eddb793/bucket/b9a3f60c-3ebb-4a10-95d6-6fdf2e1b3eae.jpg" alt="GurPit" className="h-12 w-auto" />
             <span className="text-5xl text-green-400 font-black">GURPIT</span>
           </div>
           
