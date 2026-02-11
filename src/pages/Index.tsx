@@ -60,8 +60,8 @@ const Index = () => {
     <div className="min-h-screen bg-white">
       <header className="fixed top-0 left-0 right-0 bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <img src="https://cdn.poehali.dev/files/dce251d2-53be-4129-82b1-4fb8e4200832.png" alt="GurPit" className="h-16 w-16" />
+          <div className="flex items-center gap-1">
+            <img src="https://cdn.poehali.dev/files/dce251d2-53be-4129-82b1-4fb8e4200832.png" alt="GurPit" className="h-12 w-12" />
             <span className="text-5xl text-green-400 font-black">GURPIT</span>
           </div>
           
